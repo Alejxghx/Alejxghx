@@ -87,24 +87,15 @@ actualmente:  "Construyendo proyectos 🔥"
 
 ---
 
-## 🚀 Proyectos Destacados
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [🔗 Proyecto 1](https://github.com/TU_USERNAME/proyecto1) | Descripción breve del proyecto | React, Node.js |
-| [🔗 Proyecto 2](https://github.com/TU_USERNAME/proyecto2) | Descripción breve del proyecto | Python, PostgreSQL |
-| [🔗 Proyecto 3](https://github.com/TU_USERNAME/proyecto3) | Descripción breve del proyecto | TypeScript, Docker |
-
----
-
 ## 🌐 Encuéntrame en
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=firefox&logoColor=black)](https://tu-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-garc%C3%ADa-015095269/?skipRedirect=true)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Alejinzzzzzz)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejinbuca@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/alejx.ghx/)
+
 
 </div>
 
