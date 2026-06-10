@@ -110,7 +110,7 @@ actualmente:  "Construyendo proyectos 🔥"
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Alejxghx&color=00ffff&style=for-the-badge&label=VISITAS)
+![Visitor Count](https://komarev.com/ghpvc/?username=Alejxghx&color=#8B0000&style=for-the-badge&label=VISITAS)
 
 *"Calidad significa hacerlo bien cuando nadie está mirando"* — Henry Ford
 
