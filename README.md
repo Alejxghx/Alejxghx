@@ -110,6 +110,6 @@ actualmente:  "Construyendo proyectos 🔥"
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Alejxghx&color=00ffff&style=for-the-badge&label=VISITAS)
 
-*"El buen código es su propia mejor documentación."* — Steve McConnell
+*"Calidad significa hacerlo bien cuando nadie está mirando"* — Henry Ford
 
 </div>
