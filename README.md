@@ -1,117 +1,78 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Robert García — Full Stack Developer. Manta, Ecuador · Freelance" />
+</p>
 
-```
-██████╗ ███████╗██╗   ██╗
-██╔══██╗██╔════╝██║   ██║
-██║  ██║█████╗  ██║   ██║
-██║  ██║██╔══╝  ╚██╗ ██╔╝
-██████╔╝███████╗ ╚████╔╝ 
-╚═════╝ ╚══════╝  ╚═══╝  
-```
+Construyo **experiencias web con interfaces cuidadas y código limpio**. Me interesan el desarrollo web moderno, el diseño de interfaces y las soluciones que pueden crecer.
 
-# Hola, soy Robert García 👋
+<p>
+  <a href="https://robert-garcia.dev/"><img src="https://img.shields.io/badge/Portafolio-64DDD1?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1117" alt="Visitar mi página web" /></a>
+  <a href="https://www.linkedin.com/in/robert-garc%C3%ADa-015095269/"><img src="https://img.shields.io/badge/LinkedIn-273240?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/alejx.ghx/"><img src="https://img.shields.io/badge/Instagram-273240?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/Alejinzzzzzz"><img src="https://img.shields.io/badge/X-273240?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
+</p>
 
-**`Full Stack Developer`** · **`Problem Solver`**
+## Proyectos destacados
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Construyendo+cosas+en+la+web+%F0%9F%9A%80;Apasionado+por+el+buen+c%C3%B3digo+%E2%9C%A8;Siempre+aprendiendo+algo+nuevo+%F0%9F%93%9A)](https://git.io/typing-svg)
+### [Vancita · Grand Line Beauty ↗](https://github.com/Alejxghx/Landing_web_cosmeticos)
 
-</div>
+Tienda de cosméticos con catálogo, carrito y pedidos por WhatsApp. Una experiencia visual con animaciones y escenas interactivas en 3D.
 
----
+**Next.js · TypeScript · Tailwind CSS · Motion · GSAP · Three.js**
 
-## 🧠 Sobre mí
+[Explorar el proyecto →](https://github.com/Alejxghx/Landing_web_cosmeticos)
 
-```yaml
-nombre:       "Robert García"
-ubicacion:    "Ecuador 🇪🇨 - Manta"
-empresa:      "freelance"
-rol:          "Full Stack Developer"
-intereses:
-  - Desarrollo web moderno
-  - Diseño de interfaces
-  - Código limpio y escalable
-actualmente:  "Construyendo proyectos 🔥"
-```
+### [Colisiones Car’s · Enderezada y pintura ↗](https://github.com/Alejxghx/Pagina_web_taller_clientes)
 
----
+Página web para un taller de carrocería y pintura automotriz. Presenta sus servicios, proceso de trabajo y contacto para cotizar por WhatsApp.
 
-## 🛠️ Tech Stack
+**HTML · CSS · JavaScript**
 
-<div align="center">
+[Explorar el proyecto →](https://github.com/Alejxghx/Pagina_web_taller_clientes)
+
+**[Más sobre mi trabajo en robert-garcia.dev →](https://robert-garcia.dev/)**
+
+## Mi caja de herramientas
+
+Tecnologías y herramientas que utilizo y con las que he trabajado.
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-131A23?style=flat-square&logo=html5&logoColor=64DDD1)
+![CSS3](https://img.shields.io/badge/CSS3-131A23?style=flat-square&logo=css3&logoColor=64DDD1)
+![JavaScript](https://img.shields.io/badge/JavaScript-131A23?style=flat-square&logo=javascript&logoColor=64DDD1)
+![TypeScript](https://img.shields.io/badge/TypeScript-131A23?style=flat-square&logo=typescript&logoColor=64DDD1)
+![React](https://img.shields.io/badge/React-131A23?style=flat-square&logo=react&logoColor=64DDD1)
+![Angular](https://img.shields.io/badge/Angular-131A23?style=flat-square&logo=angular&logoColor=64DDD1)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-131A23?style=flat-square&logo=nodedotjs&logoColor=64DDD1)
+![Python](https://img.shields.io/badge/Python-131A23?style=flat-square&logo=python&logoColor=64DDD1)
+![Express](https://img.shields.io/badge/Express-131A23?style=flat-square&logo=express&logoColor=64DDD1)
 
 **Bases de datos**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-3366CC?style=for-the-badge&logo=dbeaver&logoColor=white)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-131A23?style=flat-square&logo=postgresql&logoColor=64DDD1)
+![MongoDB](https://img.shields.io/badge/MongoDB-131A23?style=flat-square&logo=mongodb&logoColor=64DDD1)
+![MySQL](https://img.shields.io/badge/MySQL-131A23?style=flat-square&logo=mysql&logoColor=64DDD1)
+![DBeaver](https://img.shields.io/badge/DBeaver-131A23?style=flat-square&logo=dbeaver&logoColor=64DDD1)
 
 **Herramientas**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-FF6B6B?style=for-the-badge&logo=claude&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-131A23?style=flat-square&logo=git&logoColor=64DDD1)
+![Docker](https://img.shields.io/badge/Docker-131A23?style=flat-square&logo=docker&logoColor=64DDD1)
+![VS Code](https://img.shields.io/badge/VS%20Code-131A23?style=flat-square&logo=visualstudiocode&logoColor=64DDD1)
+![Figma](https://img.shields.io/badge/Figma-131A23?style=flat-square&logo=figma&logoColor=64DDD1)
+![Cursor](https://img.shields.io/badge/Cursor-131A23?style=flat-square&logo=cursor&logoColor=64DDD1)
+![Claude](https://img.shields.io/badge/Claude-131A23?style=flat-square&logo=claude&logoColor=64DDD1)
+![Codex](https://img.shields.io/badge/Codex-131A23?style=flat-square&logo=openai&logoColor=64DDD1)
 
+## En construcción constante
 
-</div>
+Actualmente construyendo proyectos y aprendiendo nuevas formas de crear mejores experiencias web.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alejxghx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=bd00ff&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejxghx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alejxghx&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffff&fire=bd00ff&currStreakLabel=00ffff)](https://git.io/streak-stats)
-
-</div>
+[Ver mis repositorios →](https://github.com/Alejxghx?tab=repositories)
 
 ---
 
-## 🌐 Encuéntrame en
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-garc%C3%ADa-015095269/?skipRedirect=true)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Alejinzzzzzz)
-[![Instagram](https://img.shields.io/badge/Instagram%20-%20red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alejx.ghx/)
-
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Alejxghx&color=brightgreen&style=for-the-badge&label=VISITAS)
-
-*"Calidad significa hacerlo bien cuando nadie está mirando"* — Henry Ford
-
-</div>
+**¿Conectamos?** [Portafolio](https://robert-garcia.dev/) · [LinkedIn](https://www.linkedin.com/in/robert-garc%C3%ADa-015095269/) · [Instagram](https://www.instagram.com/alejx.ghx/)
