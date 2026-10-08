@@ -64,8 +64,4 @@ Tecnologías y herramientas que utilizo y con las que he trabajado.
 
 Actualmente construyendo proyectos y aprendiendo nuevas formas de crear mejores experiencias web.
 
-[Ver mis repositorios →](https://github.com/Alejxghx?tab=repositories)
 
----
-
-**¿Conectamos?** [Portafolio](https://robert-garcia.dev/) · [LinkedIn](https://www.linkedin.com/in/robert-garc%C3%ADa-015095269/) · [Instagram](https://www.instagram.com/alejx.ghx/)
