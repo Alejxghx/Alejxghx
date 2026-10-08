@@ -5,7 +5,6 @@
 Construyo **experiencias web con interfaces cuidadas y código limpio**. Me interesan el desarrollo web moderno, el diseño de interfaces y las soluciones que pueden crecer.
 
 <p>
-  <a href="https://robert-garcia.dev/"><img src="https://img.shields.io/badge/Portafolio-64DDD1?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1117" alt="Visitar mi página web" /></a>
   <a href="https://www.linkedin.com/in/robert-garc%C3%ADa-015095269/"><img src="https://img.shields.io/badge/LinkedIn-273240?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/alejx.ghx/"><img src="https://img.shields.io/badge/Instagram-273240?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
   <a href="https://x.com/Alejinzzzzzz"><img src="https://img.shields.io/badge/X-273240?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
